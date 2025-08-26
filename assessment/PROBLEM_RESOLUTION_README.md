@@ -100,3 +100,12 @@ All success and error responses now include success flag, message or error, and 
 
 ---
 
+
+
+https://github.com/user-attachments/assets/572439d5-c071-4b9e-b9ff-e72fa02b3c1e
+
+
+
+https://github.com/user-attachments/assets/490038d7-8e35-4739-80e0-5b362928b3d8
+
+
